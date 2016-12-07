@@ -1,0 +1,14 @@
+UAA admin pwd : B2Padmin1216#
+
+Clients: 
+1. b2psrvclient (B2Pclient1216$) 
+2. b2pappclient (B2Pclient1216$) 
+
+users:
+
+1. b2p_generic_user (BTPuser123#) 
+
+
+Send grid Key: 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
+
+http://pitc-zscaler-aspac-bangalore3pr.proxy.corporate.ge.com:80
